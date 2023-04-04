@@ -13,4 +13,10 @@ git show 9039203929892 (que é a rashe
 git diff (mostra tudo que foi alterado no arquivo))
 git diff --name-only nomedoarquivo
 git checkout nome do arquivo, deleta a última inserçao
-git reset HEAD (remove do unstage, que é quando vc adiciona um arquivo, o reset tira o arq)
+git reset HEAD (remove do unstage, que é quando vc adiciona um arquivo, o reset tira o arq
+git reset --soft
+git reset --mixed
+git reset --hard (apaga todo o último commit"
+
+
+Atualizar uma frase aqui e subir pro git
