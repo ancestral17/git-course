@@ -21,3 +21,18 @@ git reset --hard (apaga todo o último commit"
 git chekout - b nova branch
 
 Atualizar uma frase aqui e subir pro git
+
+#Criar Tag
+git tag -a 1.0.1 -m "última versa"
+depois, dar o git push origin master --tags, sobe pro  git
+
+git revert nome do commit > Apaga o que vc tinha feito no outro commit, mas nao apaga o nome do commit lá, ele só reverte
+ELe nao apaga o código. o texto
+
+#apagar branch
+git branch -d ou,
+git tag -d 1.0.2  >> no local
+git push origin:1.0.0 >> esse comando apaga lá no repo
+
+ou gith push origin:nomedabranch > e ai apaga lá no repo tb 
+
