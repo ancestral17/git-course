@@ -18,5 +18,6 @@ git reset --soft
 git reset --mixed
 git reset --hard (apaga todo o último commit"
 
+git chekout - b nova branch
 
 Atualizar uma frase aqui e subir pro git
